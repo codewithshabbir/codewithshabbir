@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshabbir&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshabbir" /> </p>
 
-<div style="display: flex; justify-content: space-between;">
-<div>
+
+<div style="width="45%"" align="left">
 - 🌱 I’m currently learning **MERN Stack & AI**
 
 - 👨‍💻 All of my projects are available at [https://codithub.com/](https://codithub.com/)
@@ -15,10 +15,9 @@
 
 - ⚡ Fun fact **I am Memer**
 </div>
-  <p>
+<p style="width="45%"" align="right">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" height="200">
 </p>
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codewithshabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithshabbir" height="30" width="40" /></a>
