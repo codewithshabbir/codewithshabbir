@@ -6,7 +6,7 @@
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" height="200">
 </p>
-
+<div align="left">
 - 🌱 I’m currently learning **MERN Stack & AI**
 
 - 👨‍💻 All of my projects are available at [https://codithub.com/](https://codithub.com/)
@@ -16,7 +16,7 @@
 - 📫 How to reach me **muhammadshabbir4589@gmail.com**
 
 - ⚡ Fun fact **I am Memer**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codewithshabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithshabbir" height="30" width="40" /></a>
