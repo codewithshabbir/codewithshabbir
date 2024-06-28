@@ -6,17 +6,17 @@
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" height="200">
 </p>
+
 <div align="left">
-- 🌱 I’m currently learning **MERN Stack & AI**
-
-- 👨‍💻 All of my projects are available at [https://codithub.com/](https://codithub.com/)
-
-- 💬 Ask me about **html, css, bootstrap, php and laravel**
-
-- 📫 How to reach me **muhammadshabbir4589@gmail.com**
-
-- ⚡ Fun fact **I am Memer**
+  <ul>
+    <li>🌱 I’m currently learning <strong>MERN Stack & AI</strong></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://codithub.com/">https://codithub.com/</a></li>
+    <li>💬 Ask me about <strong>HTML, CSS, Bootstrap, PHP, and Laravel</strong></li>
+    <li>📫 How to reach me <strong>muhammadshabbir4589@gmail.com</strong></li>
+    <li>⚡ Fun fact: <strong>I am a Memer</strong></li>
+  </ul>
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codewithshabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithshabbir" height="30" width="40" /></a>
