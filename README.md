@@ -3,7 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshabbir&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshabbir" /> </p>
 
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" height="200">
+</p>
+
+- 🌱 I’m currently learning **MERN Stack & AI**
+
 - 👨‍💻 All of my projects are available at [https://codithub.com/](https://codithub.com/)
+
+- 💬 Ask me about **html, css, bootstrap, php and laravel**
+
+- 📫 How to reach me **muhammadshabbir4589@gmail.com**
+
+- ⚡ Fun fact **I am Memer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
