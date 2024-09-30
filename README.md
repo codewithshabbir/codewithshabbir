@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack & AI**
 
-- 👨‍💻 All of my projects are available at [https://codithub.com/](https://codithub.com/)
-
 - 💬 Ask me about **html, css, bootstrap, php and laravel**
 
 - 📫 How to reach me **muhammadshabbir4589@gmail.com**
